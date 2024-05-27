@@ -3,7 +3,7 @@
 Project: Check the FutureFit Project which you can find in my Repository 
 
 Lab Assignments:
-assignment1: Dicision Tree & Random Forest
-assignment2: Gradiant Boosting 
-assignment3: Regression
-assignment4: K-means Clustering
+<br>assignment1: Dicision Tree & Random Forest
+<br>assignment2: Gradiant Boosting 
+<br>assignment3: Regression
+<br>assignment4: K-means Clustering
