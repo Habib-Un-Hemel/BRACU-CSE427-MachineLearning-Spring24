@@ -1,7 +1,6 @@
-# CSE427-BRACU
 
-## Project: Check the FutureFit Project which you can find in my Repository 
-### FutureFit
+## 1. Project: Check the FutureFit Project which you can find in my Repository 
+#### 1.1 FutureFit
 <p align="center">
   <img src="photo/project.png" width="500" title="ER/EER diagram">
   <br>
@@ -10,14 +9,14 @@
 </p>
 
 
-## Lab Assignments:
+## 2. Lab Assignments:
 <br>assignment1: Dicision Tree & Random Forest
 <br>assignment2: Gradiant Boosting 
 <br>assignment3: Regression
 <br>assignment4: K-means Clustering
 
 
-## Theory Lecture Outline
+## 3. Theory Lecture Outline
 Week 1 Introduction to Machine Learning, Random Forest
 Week 2 Gradient Boosting: Regression, Classification
 Week 3 Linear Prediction: Linear Regression (Lasso, Elastic Net), Logistic Regression
